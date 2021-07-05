@@ -75,10 +75,11 @@ Execute npm start.
  
 <img src="screenshots/sign-in.png" alt="abhi2301">
 
-  <div>
+  </div>
+  <h3>home-page after log in</h3>
     <div>
  
-<img src="screenshots/sign-in.png" alt="abhi2301">
+<img src="screenshots/Screenshot (10).png" alt="abhi2301">
 
-  <div>
+  </div>
 
