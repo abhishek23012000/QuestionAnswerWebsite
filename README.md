@@ -25,11 +25,29 @@
 3.Node.js
   </p>
 
-
-4.MongoDB 
-5.Express.js
-6.JWT 
-7.SASS 
+<p>
+  
+  </p>
+  <p>
+  4.MongoDB 
+  </p>
+  <p>
+  5.Express.js
+  </p>
+  <p>
+  6.JWT 
+  </p>
+  <p>
+  7.SASS 
+  </p>
+<p>
 8.NodeMailer
+  </p>
+<p>
 9.Passport.js
-10.HTMl
+  </p>
+
+
+
+
+
