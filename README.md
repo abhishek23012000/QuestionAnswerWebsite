@@ -76,10 +76,31 @@ Execute npm start.
 <img src="screenshots/sign-in.png" alt="abhi2301">
 
   </div>
-  <h3>home-page after log in</h3>
+  <h3>home-Page after logIn</h3>
     <div>
  
 <img src="screenshots/Screenshot (10).png" alt="abhi2301">
+
+  </div>
+  
+   <h3>Followers and all Users</h3>
+    <div>
+ 
+<img src="screenshots/friends.png" alt="abhi2301">
+
+  </div>
+  
+   <h3>Profile</h3>
+    <div>
+ 
+ <img src="screenshots/profile.png" alt="abhi2301">
+
+  </div>
+  
+   <h3>Chat</h3>
+    <div>
+ 
+ <img src="screenshots/chat.png" alt="abhi2301">
 
   </div>
 
