@@ -1,4 +1,26 @@
 # QuestionAnswerWebsite
+## how to use
+<ul>
+  <li>
+      Install NodeJs (nodejs.org).
+    </li>
+    <li>
+   Install redis
+    </li>
+    <li>
+    Fork, Clone and open this repository in a terminal/command prompt.
+    </li>
+  <li>
+  Execute npm install.
+    </li>
+  <li>
+Execute npm start.
+    </li>
+   <li>
+ Open your preferred web browser and go to https://localhost:8000.
+  </li>
+</ul>
+
 
 ## Tools and Packages used
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> 
@@ -46,26 +68,4 @@
 <p>
 9.Passport.js
   </p>
-
-## how to use
-<ul>
-  <li>
-      Install NodeJs (nodejs.org).
-    </li>
-    <li>
-   Install redis
-    </li>
-    <li>
-    Fork, Clone and open this repository in a terminal/command prompt.
-    </li>
-  <li>
-  Execute npm install.
-    </li>
-  <li>
-Execute npm start.
-    </li>
-   <li>
- Open your preferred web browser and go to https://localhost:8000.
-  </li>
-</ul>
 
