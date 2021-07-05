@@ -87,7 +87,7 @@ Execute npm start.
    <h3>Followers and all Users</h3>
     <div>
  
-<img src="screenshots/friends.png" alt="abhi2301">
+<img src="screenshots/friend.png" alt="abhi2301">
 
   </div>
   
