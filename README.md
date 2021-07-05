@@ -15,10 +15,17 @@
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="100" height="100"/> </a> </p>
  
  </p>
-
-1.Jquery
-2.Socket.io
+<p>
+  1.Jquery
+  </p>
+<p>
+ 2.Socket.io
+  </p>
+  <p>
 3.Node.js
+  </p>
+
+
 4.MongoDB 
 5.Express.js
 6.JWT 
