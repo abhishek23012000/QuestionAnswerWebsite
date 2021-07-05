@@ -1,5 +1,5 @@
 # Q&A Website
-## how to use
+## How to Use
 <ul>
   <li>
       Install NodeJs (nodejs.org).
