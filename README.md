@@ -1,6 +1,6 @@
 # QuestionAnswerWebsite
 
-#Tools and Packages used
+# Tools and Packages used
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="100" height="100"/> </a> 
   <img align="center" src="https://i1.wp.com/community.nodemailer.com/wp-content/uploads/2015/10/n2-2.png?fit=422%2C360&ssl=1" alt="abhi2301" height="100" width="100" />
