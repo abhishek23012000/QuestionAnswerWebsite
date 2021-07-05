@@ -1,4 +1,4 @@
-# QuestionAnswerWebsite
+# Q&A Website
 ## how to use
 <ul>
   <li>
