@@ -72,7 +72,13 @@ Execute npm start.
 ## Screenshots
 <h3>Sign-in</h3>
 <div>
-  ![sign-in](https://user-images.githubusercontent.com/56253046/124511991-007f4980-ddf5-11eb-90d4-eeedb566f2d3.png)
+ 
+<img src="screenshots/sign-in.png" alt="abhi2301">
+
+  <div>
+    <div>
+ 
+<img src="screenshots/sign-in.png" alt="abhi2301">
 
   <div>
 
