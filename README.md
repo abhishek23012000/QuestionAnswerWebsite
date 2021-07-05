@@ -49,12 +49,12 @@
 
 ## how to use
 <ul>
-  <div>
+  <ul>
       Install NodeJs (nodejs.org).
-    </div>
-    <div>
+    </ul>
+    <ul>
       Install NodeJs (nodejs.org).
-    </div>
+    </ul>
     <div>
       Install NodeJs (nodejs.org).
     </div>
