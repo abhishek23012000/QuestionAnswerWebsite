@@ -49,8 +49,16 @@
 
 ## how to use
 <ul>
-    <li>
-   Install NodeJs (nodejs.org).
+  <div>
+      Install NodeJs (nodejs.org).
+    </div>
+    <div>
+      Install NodeJs (nodejs.org).
+    </div>
+    <div>
+      Install NodeJs (nodejs.org).
+    </div>
+ 
 Install redis
 Fork, Clone and open this repository in a terminal/command prompt.
 Execute npm install.
@@ -59,6 +67,6 @@ Open your preferred web browser and go to https://localhost:8000.
 
 
 
-    </li>
+   
 </ul>
 
