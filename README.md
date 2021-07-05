@@ -53,20 +53,19 @@
       Install NodeJs (nodejs.org).
     </li>
     <li>
-      Install NodeJs (nodejs.org).
+   Install redis
     </li>
-    <div>
-      Install NodeJs (nodejs.org).
-    </div>
- 
-Install redis
-Fork, Clone and open this repository in a terminal/command prompt.
-Execute npm install.
+    <li>
+    Fork, Clone and open this repository in a terminal/command prompt.
+    </li>
+  <li>
+  Execute npm install.
+    </li>
+  <li>
 Execute npm start.
-Open your preferred web browser and go to https://localhost:8000.
-
-
-
-   
+    </li>
+   <li>
+ Open your preferred web browser and go to https://localhost:8000.
+  </li>
 </ul>
 
