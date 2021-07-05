@@ -17,7 +17,7 @@
 Execute npm start.
     </li>
    <li>
- Open your preferred web browser and go to <a href="https://localhost:8000" target="_blank"> 
+ Open your preferred web browser and go to "https://localhost:8000" 
       
   </li>
 </ul>
