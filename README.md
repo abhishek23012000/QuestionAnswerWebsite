@@ -2,19 +2,22 @@
 ## How to Use
 <ul>
   <li>
-      Install NodeJs (nodejs.org).
+      Install NodeJs (nodejs.org)
     </li>
     <li>
    Install redis
     </li>
     <li>
-    Fork, Clone and open this repository in a terminal/command prompt.
+    Fork, Clone and open this repository in a terminal/command prompt
+    </li>
+   <li>
+  Execute redis-server.exe
     </li>
   <li>
-  Execute npm install.
+  Execute npm install
     </li>
   <li>
-Execute npm start.
+Execute npm start
     </li>
    <li>
  Open your preferred web browser and go to "https://localhost:8000" 
